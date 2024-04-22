@@ -24,7 +24,7 @@ A collection of knowledge graph papers, codes, and reading notes.
     - [Interactive APP](#interactive-app)
   - [Courses, Tutorials and Seminars](#courses-tutorials-and-seminars)
     - [Courses](#courses)
-  -[Books](https://github.com/1997MarsRover/knowledge-graphs/blob/master/books/OReilly-book)
+  - [Books](https://github.com/1997MarsRover/knowledge-graphs/blob/master/books/OReilly-book)
   - [Related Repos](#related-repos)
   - [Acknowledgements](#acknowledgements)
 
